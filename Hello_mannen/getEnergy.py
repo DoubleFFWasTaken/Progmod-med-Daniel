@@ -1,5 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from getAcc import *
+
 
 def getEnergy( pos, vel, mass, G ):
 	"""
